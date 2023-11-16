@@ -1,0 +1,6 @@
+NombreUsuario,FechaVuelo,TipoVuelo,CantidadBoletos,Aerolinea,NumeroTarjeta,CantidadCuotas,ClaseVuelo,NumeroAsiento,CantidadMaletas
+johndoe123,2023-12-24,ida,2,Kayak Airline,1234567890123456,1,premium,12A,1
+
+carlos05,2023-12-05,ida,1,Kayak Airline,125145895623,1,económico,null,0
+Alan2805,2024-01-16,ida,1,Kayak Airline,524174859663,1,Premium,A3,1
+Pablowski,2024-03-14,si,1,Kayak Airline,2356895645,1,Premium,A7,0
